@@ -2,7 +2,7 @@
 
 Run Sync Gateway under Docker + CoreOS.
 
-## Instructions 
+## Instructions
 
 * [Couchbase Server + Sync Gateway](http://tleyden.github.io/blog/2014/12/15/running-a-sync-gateway-cluster-under-coreos-on-aws/)
 
@@ -12,3 +12,5 @@ Please file issues to the [couchbase-server-docker](https://github.com/couchbase
 
 [trigger drone]
 
+great tutorial on getting a drone env up
+http://tleyden.github.io/blog/2016/02/15/setting-up-a-self-hosted-drone-dot-io-ci-server/
